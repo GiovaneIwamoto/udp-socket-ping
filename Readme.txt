@@ -1,0 +1,1 @@
+.prompt for server > python3 udpping_server.py. open another prompt for client  > python3 udpping_client.py localhost 12000
