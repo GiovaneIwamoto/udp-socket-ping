@@ -18,7 +18,7 @@ Terminal for CLIENT
 
 `python3 udpping_client.py localhost 12000`
 
-#### **AUTHOR**
+### **AUTHOR**
 
 - Giovane Hashinokuti Iwamoto - Computer Science student at UFMS - Brazil - MS
 
